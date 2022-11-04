@@ -1,0 +1,31 @@
+
+body{
+    background-image: url(https://www.gaceta.unam.mx/wp-content/uploads/2021/03/210318-aca1-des-f1-matematicas-salvan-vidas.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+   
+}
+h1{
+    color: white;
+    background-position: center;
+}
+.boton{
+    color:white;
+    background-color: black;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0  1.2px;
+    border: 2px solid;
+    position: relative;
+    
+    }
+    .none{
+        text-decoration: none;
+        color: white;
+    }
+    a{
+        background-color: black;
+        color: white;
+    }
+    
